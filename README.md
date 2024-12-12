@@ -9,6 +9,7 @@ chất thì bây giờ, tại thời điểm bạn
 đang đọc cái readme này thì nó mới
 chỉ là phiên bản ( aplha b1 ) 
 
+DOWNLOAD:[flare24.libs](https://github.com/joeindev/flare24/blob/main/lib/flare24.jar)
 ## Yêu Cầu
 
 - Minecraft 1.20.4
