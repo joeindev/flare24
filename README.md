@@ -39,7 +39,7 @@ chỉ là phiên bản ( aplha b1 )
 Dự án này được phát hành dưới giấy phép [MIT](https://opensource.org/licenses/MIT).
 
 ## Liên Hệ
-email: [flare.mail](https://hle816412@gmail.com)
+email: `https://hle816412@gmail.com`
 discord :[flare.discord](https://discord.gg/Wtv9D8TdsJ).
 
 ## Fun facts
