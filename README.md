@@ -31,7 +31,7 @@ chỉ là phiên bản ( aplha b1 )
 
 <details>
   <summary>ClickGUI</summary>
-  <img src="/mnt/data/image.png" alt="Flare24 GUI">
+  <img src="image.png" alt="Flare24 GUI">
 </details>
 
 ## Giấy Phép
