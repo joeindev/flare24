@@ -42,7 +42,19 @@ Dự án này được phát hành dưới giấy phép [MIT](https://opensource
 email: [flare.mail](hle816412@gmail.com)
 discord :[flare.discord](https://discord.gg/Wtv9D8TdsJ).
 
+## Fun facts
+vì đây là bản beta thôi nên tôi thử làm hack cho ae xã đoàn trong discord xem và đánh giá nếu nó được
+ sự ủng hộ thì tôi sẽ làm tiếp 1 phiên bản nữa có tên **flare25** trong năm 2025 và nó sẽ là bản release
+ mà tôi chắc rằng mọi người sẽ hài lòng,
 
----
+## more facts
+vì là bản tôi làm qua loa nên NÓ LÀ SKID và an toàn ư? yes 
+khi ra flare25 thì nó sẽ có các tiêu chí sau:
+1.thêm tính năng
+2.no skid
+3.paid
+4.an toàn
+5.đa dụng
+bỏ phiếu phiên bản sẽ được bình chọn ở năm 2025. tại flare discord
 
-trân trọng,đội ngũ**flare24**!
+trân trọng,đội ngũ **flare**!
