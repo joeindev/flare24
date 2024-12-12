@@ -45,4 +45,4 @@ discord :[flare.discord](https://discord.gg/Wtv9D8TdsJ).
 
 ---
 
-Chúc bạn chơi game vui vẻ và tận hưởng trải nghiệm với **flare24**!
+trân trọng,đội ngũ**flare24**!
